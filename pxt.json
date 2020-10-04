@@ -1,5 +1,5 @@
 {
-    "name": "Uten navn",
+    "name": "Temperaturlogger",
     "description": "",
     "dependencies": {
         "core": "*",
